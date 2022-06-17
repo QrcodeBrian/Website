@@ -116,26 +116,6 @@ button:hover{
   color:rgb(15,9,161);
   text-shadow:white -1px -1px 0px,white 1px 1px 0px, white 1px -1px 0px,white -1px 1px 0px;
 }
-#emailto{
-  text-decoration: none;
-  color:black;
-}
-#emailtot{
-  position:relative;
-  top:50px;
-  width:99%;
-  color:black;
-  font-size:20px;
-  text-align:center;
-}
-#alsocontact{
-  position:relative;
-  top:100px;
-  width:99%;
-  text-align:center;
-  font-size:20px;
-  color:black;
-}
 #contactform{
   position:relative;
   top:100px;
